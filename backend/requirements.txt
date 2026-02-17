@@ -1,0 +1,11 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+python-dotenv==1.0.1
+pydantic-settings==2.6.1
+vnstock>=3.4.0
+pandas>=2.2.0
+httpx==0.27.2
+cachetools==5.5.0
+feedparser==6.0.11
+beautifulsoup4==4.12.3
+
